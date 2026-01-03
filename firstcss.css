@@ -37,3 +37,10 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #7876e6;
 }
+#prayforpray {
+    color: rgb(10, 10, 10);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #7876e6;
+    width : 50%;
+}   
